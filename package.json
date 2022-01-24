@@ -1,0 +1,8 @@
+{
+  "name": "instagram-de",
+  "version": "1.0.0",
+  "description": "Driven project",
+  "main": "index.html",
+  "license": "MIT",
+  "private": false
+}
